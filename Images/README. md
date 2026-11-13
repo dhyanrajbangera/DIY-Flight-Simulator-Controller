@@ -1,0 +1,23 @@
+Project Images
+
+This folder contains images and visual references of the DIY USB Flight Simulator Controller project.
+
+Contents
+
+The images in this folder may include:
+
+- Project Photos: Pictures of the completed flight simulator controller.
+- Wiring Diagrams: Visual references showing the connections between the Arduino Pro Micro, potentiometers, toggle switches, and activation button.
+- 3D Model Images: Pictures showing the design and appearance of the 3D-printed enclosure.
+- Assembly Photos: Images documenting the construction and assembly process.
+
+Purpose
+
+These images help explain the hardware design, wiring, enclosure, and development process of the project.
+
+They provide a visual reference for anyone interested in understanding or recreating the controller.
+
+---
+
+Project: DIY USB Flight Simulator Controller
+Microcontroller: Arduino Pro Micro (ATmega32U4)
